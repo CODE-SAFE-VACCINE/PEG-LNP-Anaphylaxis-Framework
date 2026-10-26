@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
+*.bak
+*.orig
+.env
+.venv/
